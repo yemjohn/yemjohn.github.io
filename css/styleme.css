@@ -1,5 +1,5 @@
 body {
-    background-color: rebeccapurple;
+    background-color: gray;
 }
 h3 {
     color: magenta;
@@ -11,6 +11,7 @@ p {
 li.unordered {
     list-style-type:circle;
     list-style-position: outside;
+    font: 2em Arial, "Arial Black", Verdana, "Times New Roman";
 }
 #li1, #li2, #li3, #li4 {
     background-color: bisque;
