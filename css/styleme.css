@@ -15,6 +15,6 @@ li.unordered {
 }
 #li1, #li2, #li3, #li4 {
     background-color: bisque;
-    text-decoration: overline;
+    text-shadow: 10px;
     text-size-adjust: 2em;
 }
