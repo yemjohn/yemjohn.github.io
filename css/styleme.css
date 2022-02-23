@@ -1,0 +1,11 @@
+p {
+    color: blue;
+
+}
+li.unordered {
+    list-style-type:circle;
+    list-style-position: outside;
+}
+#li1, #li2, #li3, #li4 {
+    background-color: bisque;
+}
