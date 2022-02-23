@@ -1,3 +1,9 @@
+body {
+    background-color: aqua;
+}
+h3 {
+    color: magenta;
+}
 p {
     color: blue;
 
