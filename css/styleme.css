@@ -18,6 +18,7 @@ li.unordered {
     font-size: medium;
 }
 a{
+    counter-reset: red;
     text-decoration: none;
 }
 * {
