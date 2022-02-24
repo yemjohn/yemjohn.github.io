@@ -10,7 +10,7 @@ p {
 
 }
 p::first-letter {
-    font-size: 200%;
+    font-size: 6em;
 }
 li.unordered {
     list-style-type:circle;
