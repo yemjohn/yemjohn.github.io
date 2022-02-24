@@ -18,7 +18,7 @@ li.unordered {
     font-size: medium;
 }
 a{
-    counter-reset: coral;
+    color: coral;
     text-decoration: none;
 }
 * {
