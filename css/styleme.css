@@ -9,7 +9,7 @@ p {
     color: blue;
 
 }
-p:first-child::first-letter {
+p:first-child:first-letter {
     font-size: large;
 }
 li.unordered {
