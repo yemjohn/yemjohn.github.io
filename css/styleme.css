@@ -9,6 +9,9 @@ p {
     color: blue;
 
 }
+p::first-letter{
+    font-size: large;
+}
 li.unordered {
     list-style-type:circle;
     list-style-position: outside;
