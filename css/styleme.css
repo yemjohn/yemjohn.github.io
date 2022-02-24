@@ -12,12 +12,11 @@ p {
 li.unordered {
     list-style-type:circle;
     list-style-position: outside;
-    font-size: 2 em;
 }
 #li1, #li2, #li3, #li4 {
     background-color: bisque;
     font-size: medium;
 }
 * {
-    font: Arial, "Arial Black", Verdana, "Times New Roman";
+    font-family: Arial, "Arial Black", Verdana, "Times New Roman";
 }
