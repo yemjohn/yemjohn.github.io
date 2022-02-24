@@ -1,19 +1,29 @@
+abbr {
+    text-decoration: underline;
+}
+
 body {
+    background-image: url("../images/silverware.jpg");
     background-color: white;
     color: #404040;
     font-size: 11pt;
     font-family: Georgia, Garamond , serif;
+    
 }
 .bold {
     font-weight: bold;
 }
 #cake {
     text-decoration:line-through;
+}#comment1, #comment2, #comment3 {
+    background-color: #FFFFA8;
+    font-style:italic;
 }
-#main1 {
-    font-size: 22pt;
-    text-align: center;
+#copyright {
+    text-align: right;
+    
 }
+
 h1 {
     color: #A4A400;
     background-color: #F0F0F0;
@@ -22,23 +32,22 @@ h1 {
     font-family: 'Lucida Sans Unicode', Helvetica, Arial, sans-serif; 
     font-size: 18pt;
 }
-#comment1, #comment2, #comment3 {
-    background-color: hsl(60, 85%, 68%);
-}
-#link {
-    color: #A4A400;
-}
-
-#copyright {
-    text-align: right;
-    
-    
-}
 #htmlimg, #cssimg {
     float: right;
 }
 
-#tbsp {
-    text-decoration: underline;
+#link {
+    color: #A4A400;
+}
 
+#main1 {
+    font-size: 22pt;
+    text-align: center;
+}
+
+#tbsp {
+    
+}
+ul {
+    list-style-image: url('../images/pie_icon.gif');
 }
