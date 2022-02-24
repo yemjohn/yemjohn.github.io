@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+h3 {
+    color: magenta;
+}
+p {
+    
+    color: black;
+
+}
+p::first-letter {
+    font-size: 2em;
+}
+
+#li1, #li2, #li3, #li4 {
+    background-color: bisque;
+    font-size: medium;
+}
+dt {
+    color: rgb(255, 196, 0)
+}
+a{
+    color: coral;
+    text-decoration: none;
+}
+ol { 
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+li {
+    flex: 0 0 auto;
+}
+* {
+    font-family:Arial, 'Arial Narrow Bold', Verdana,'Times New Roman';
+}
