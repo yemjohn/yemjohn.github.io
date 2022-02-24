@@ -12,7 +12,7 @@ p {
 li.unordered {
     list-style-type:circle;
     list-style-position: outside;
-    font: 2em ;
+    font: 2 em ;
 }
 #li1, #li2, #li3, #li4 {
     background-color: bisque;
