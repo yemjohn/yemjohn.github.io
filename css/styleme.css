@@ -17,6 +17,9 @@ li.unordered {
     background-color: bisque;
     font-size: medium;
 }
+a{
+    text-decoration: none;
+}
 * {
     font-family:Arial, 'Arial Narrow Bold', Verdana,'Times New Roman';
 }
