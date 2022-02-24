@@ -9,8 +9,8 @@ p {
     color: blue;
 
 }
-p:first-child:first-letter {
-    font-size: large;
+p::first-letter {
+    font-size: 200%;
 }
 li.unordered {
     list-style-type:circle;
