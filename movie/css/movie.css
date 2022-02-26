@@ -8,6 +8,7 @@ body {
 }
 #header {
   background-image: url('bannerbg.png');
+  background-repeat: repeat-x;
 }
 #header img {
   margin-left: 25%;
