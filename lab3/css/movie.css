@@ -3,12 +3,12 @@ body {
   padding: 0;
   font-size: 100%;
   line-height: 1;
-  background-image: url('background.png');
+  background-image: url('../images/background.png');
   overflow-x: hidden;
   height: 100vh;
 }
 #header {
-  background-image: url('bannerbg.png');
+  background-image: url('../images/bannerbg.png');
 }
 #header img {
   margin-left: 25%;
@@ -31,11 +31,11 @@ div#main {
 div.mainDiv {
   display: inline-block;
 }
-div#divMainLeft {
+div#mainLeft {
   width: 550px;
   float: left;
 }
-div#divMainRight {
+div#mainRight {
   width: 250px;
   background-color: #a2b964;
   border-top-right-radius: 15px;
