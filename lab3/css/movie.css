@@ -59,15 +59,15 @@ div.container {
   grid-template-columns: auto auto;
   gap: 10px;
 }
-div.box1 {
+div.col11 {
   margin: 2%;
   width: 94%;
   border-radius: 10px;
   border: 2px grey solid;
   background-color: #e8dc9b;
 }
-.box1 img,
-.box2 img {
+.col1 img,
+.col2 img {
   float: left;
   margin-top: 8px;
   margin-right: 5px;
