@@ -2,7 +2,6 @@ body {
     background-color: whitesmoke;
     color:rgb(60, 60, 60);
     font-family: 'Times New Roman', Times, serif;
-<<<<<<< HEAD
     text-decoration: wavy;
     font-size: 12pt;
     margin: 20px;
@@ -14,19 +13,5 @@ body {
 }
 #instruction {
     color: rgb(114, 110, 110);
-=======
-    font-size: 12pt;
-    margin: 10px;
-}
-.email {
-    display: block;
-}
-li {
-    width: 100%;
-}
-#divemail, #divpwd, #divsubmit, #divcheckbox {
-    margin: 20px;
-}
-#submit {
->>>>>>> 49b6cb3f09f125e61ff45dfeca71b7576f7b37f8
+
 }
