@@ -28,8 +28,12 @@ function largest1(arr){
             secondLarg=larg;
             larg = arr[i];
         }
+		if(secondLargest < arr[i]) {
+                secondLargest = arr[i];
+            }
     }
     return secondLarg;
 }
 
-console.log(largest1([1,2,3,4]))
+console.log(secondLargest([1,2,3,4]));
+console.log(secondBiggest([1,2,3,4]));
